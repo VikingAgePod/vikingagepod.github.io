@@ -1,6 +1,7 @@
 ---
 title: "Episode #1 - Welcome to The Viking Age"
 layout: post
+permalink: "welcome-viking-age"
 date: 2016-04-12 15:00
 tag:
 - episode
