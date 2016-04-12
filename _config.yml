@@ -1,6 +1,6 @@
 # main text of home
 name: Viking Age Podcast
-bio: 'A podcast about sharing the history of the Viking Age'
+bio: 'Sharing the History of The Viking Age, one podcast at a time'
 
 # if it's an external image, update below for true
 external-image: false
@@ -45,7 +45,7 @@ width: normal
 # projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+# about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
