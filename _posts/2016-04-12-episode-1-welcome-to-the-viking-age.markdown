@@ -1,7 +1,7 @@
 ---
 title: "Episode #1 - Welcome to The Viking Age"
 layout: post
-permalink: "welcome-viking-age"
+permalink: "welcome-to-the-viking-age"
 date: 2016-04-12 15:00
 tag:
 - episode
@@ -23,7 +23,7 @@ This means that in order to understand the story of the Viking Age, we need to m
 
 Anyway, I'll stop blabbering on, all this and more is discussed in the first episode, which you can listen to right below! Please don't hesitate to get in touch via the social buttons above, or the comment box below. Happy Listening.
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/258663136&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/258663136&amp;color=364f79&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ## Like what you hear?
 If you like this episode you could do a huge solid for all of us here at the Viking Age Podcast and spread the word on social media with the links below!
