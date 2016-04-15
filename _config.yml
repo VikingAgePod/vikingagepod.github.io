@@ -20,7 +20,7 @@ analytics-google: 'UA-76083207-1'
 disqus: vikingagepod
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
+facebook: vikingagepod
 twitter: VikingAgePod
 # google: mygoogle
 # instagram: myinstagram
@@ -32,6 +32,9 @@ github: VikingAgePod
 # medium: medium
 email: lee@vikingagepodcast.com
 soundcloud: vikingagepod
+rss: 'http://feeds.soundcloud.com/users/soundcloud:users:219015633/sounds.rss'
+itunes: 'https://itunes.apple.com/us/podcast/viking-age-podcast/id1102929069'
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
