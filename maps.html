@@ -1,0 +1,21 @@
+---
+layout: default
+permalink: /maps/index.html
+title: Maps
+---
+{% include header.html %}
+
+<div id="simple_map" width="100%"></div>
+
+
+<script type="text/javascript">
+    var mymap = L.map('simple_map').setView([62.2786, 14], 4);
+    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+        maxZoom: 18,
+        id: 'mapbox.emerald',
+        accessToken: 'pk.eyJ1IjoibHJhY2NvbWFuZG8iLCJhIjoiY2ltd255YnA4MDNkZ3ZvbHV4b2RsN29obSJ9.6LL4qIlnZNtDt3b4F6SKJw'
+    }).addTo(mymap);
+</script>
+
+{% include footer.html %}
