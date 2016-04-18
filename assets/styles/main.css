@@ -1187,4 +1187,7 @@ pre {
           transition: all ease-in-out 0.2s;
 }
 
-#simple_map { height: 480px; width:100%; }
+#simple_map {
+  height: 480px;
+  width:300px;
+}
