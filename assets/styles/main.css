@@ -1186,3 +1186,5 @@ pre {
   -webkit-transition: all ease-in-out 0.2s;
           transition: all ease-in-out 0.2s;
 }
+
+#simple_map { height: 480px; width:100%; }
