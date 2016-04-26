@@ -10,7 +10,7 @@ tag:
 blog: true
 ---
 
-## Welcome to the Viking Age!
+## Of Reindeer and Fishermen
 
 Hello, my name is Lee and this is Episode #2 - Of Reindeer and (Fisher) Men!
 
