@@ -24,13 +24,13 @@ And, as promised in the episode, here are some pictures to help you visulize som
 
 ### Polished Flint Axes
 
-![alt text]({{site.url}}/assets/images/reconstructed-flint-axe.png "Reconstructed Polished Flint Axe")
+![alt text]({{site.url}}/assets/images/reconstructed-flint-axe.jpg "Reconstructed Polished Flint Axe")
 
 A reconstructed flint axe found in Sigerslev Bog near Præstø, Denmark. Image from The National Museum of Denmark
 
 ### The Ard
 
-![alt text]("https://en.wikipedia.org/wiki/Ard_(plough)#/media/File:AncientPlough.jpg" "The Ard Plow")
+![alt text](https://en.wikipedia.org/wiki/Ard_(plough)#/media/File:AncientPlough.jpg "The Ard Plow")
 
 Diagram of the construction of the ard plow. Image from Wikipedia
 
