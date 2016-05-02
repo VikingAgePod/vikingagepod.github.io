@@ -2,7 +2,7 @@
 title: "Episode #4 - Ard Times (Come Again No More)"
 layout: post
 permalink: "ard-times"
-date: 2016-05-02 7:00
+date: 2016-05-03 7:00
 tag:
 - episode
 - previkingage
