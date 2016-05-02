@@ -30,7 +30,7 @@ A reconstructed flint axe found in Sigerslev Bog near Præstø, Denmark. Image f
 
 ### The Ard
 
-![alt text](https://commons.wikimedia.org/wiki/File:AncientPlough.jpg#/media/File:AncientPlough.jpg "The Ard Plow")
+![alt text](https://upload.wikimedia.org/wikipedia/commons/e/ec/AncientPlough.jpg "The Ard Plow")
 
 Diagram of the construction of the ard plow. Image from Wikipedia
 
