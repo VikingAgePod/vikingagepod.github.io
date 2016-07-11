@@ -2,7 +2,7 @@
 title: "Episode #10 - Viking Age Ireland"
 layout: post
 permalink: "viking-age-ireland"
-date: 2016-07-11 16:30
+date: 2016-07-11 16:00
 tag:
 - episode
 - vikingage
@@ -25,7 +25,7 @@ As promised in the episode, here is a helpful map to help you keep things straig
 
 For all that and more - you can listen below!
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4474109/height/360/width/640/theme/standard/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4507187/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ## Like what you hear?
 If you like this episode you could do a huge solid for all of us here at the Viking Age Podcast and spread the word on social media with the links below!
