@@ -1,0 +1,33 @@
+---
+title: "Episode #12 - Iona"
+layout: post
+permalink: "iona"
+date: 2016-07-25 16:00
+tag:
+- episode
+- vikingage
+- vikingagepod
+- iona
+- ireland
+- scotland
+blog: true
+---
+
+## Iona
+
+In this episode we see the Vikingar shift their focus north, from Ireland to to the Inner Hebrides and a target which, from the perspective of the Vikingar, must have been almost too good to be true. We are speaking of course about the great monastery of Iona.
+
+We'll explore the raids in 795 CE and 802 CE - and then the details and psychological and material impact of the brutal Viking Raid of 806 CE. Along the way we will also meet St. Columba and his journey from bad-boy churchman to missionary saint. It should be fun, why don't you give it a listen?
+
+As promised in the episode, here is a helpful map to help you keep things straight!
+
+![alt text]({{site.url}}/assets/images/scottish_isles_map.jpg "Scottish Isles")
+
+Map is sourced from: (www.wikipedia.org)
+
+For all that and more - you can listen below!
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4540684/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+## Like what you hear?
+If you like this episode you could do a huge solid for all of us here at the Viking Age Podcast and spread the word on social media with the links below!
