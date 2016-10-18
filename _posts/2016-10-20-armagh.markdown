@@ -23,7 +23,7 @@ For all that and more - you can listen below!
 
 And as promised, here are the maps for this episode!
 
-![Map of Viking Raids on Ireland between 827 and 832 CE](irish_raids_map_episode_19.png)
+![alt text]({{site.url}}/assets/irish_raids_map_episode_19.png "Map of Viking Raids on Ireland between 827 and 832 CE")
 
 ## Like what you hear?
 If you like this episode you could do a huge solid for all of us here at the Viking Age Podcast and spread the word on social media with the links below!
