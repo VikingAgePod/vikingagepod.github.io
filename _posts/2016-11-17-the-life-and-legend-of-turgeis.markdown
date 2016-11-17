@@ -2,7 +2,7 @@
 title: "Episode #21 - The Life and Legend of Turgeis"
 layout: post
 permalink: "life-and-legend-of-turgeis"
-date: 2016-10-20 05:30
+date: 2016-11-17 05:30
 tag:
 - episode
 - vikingage
