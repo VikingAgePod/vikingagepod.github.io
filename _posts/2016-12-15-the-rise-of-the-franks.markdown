@@ -25,6 +25,8 @@ And as promised, here are the maps for this episode!
 
 ![Map of Western Europe Circa 500 CE]({{site.url}}/assets/images/western_europe_circa_500_CE_ep_23_map_1.png "Map of Western Europe Circa 500 CE")
 
+![Map of Merovingian Frankish Conquests]({{site.url}}/assets/images/frankish_conquests_ep_23_map_3.png "Map of Merovingian Frankish Conquests")
+
 ![Map of Western Europe Circa 600 CE]({{site.url}}/assets/images/western_europe_circa_600_ep_23_map_2.png "Map of Western Europe Circa 500 CE")
 
 ## Like what you hear?
