@@ -905,6 +905,7 @@ pre {
   -webkit-transition: all 0.4s ease-in-out;
           transition: all 0.4s ease-in-out;
   width: 120px;
+  vertical-align:middle;
 }
 .nav-home > .list > .item > .link:hover {
   color: #666;
