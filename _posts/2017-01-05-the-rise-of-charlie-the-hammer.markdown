@@ -2,7 +2,7 @@
 title: "Episode #24 - The Rise of Charlie the Hammer - Carolingian Viking Age II"
 layout: post
 permalink: "the-rise-of-charles-martel"
-date: 2016-01-05 05:00
+date: 2017-01-05 05:00
 tag:
 - episode
 - vikingage
