@@ -1,5 +1,5 @@
 ---
-title: "Episode #27 - Charlemagne and the Saxon Wars Pt 2 - Carolingian Viking Age IV"
+title: "Episode #27 - Charlemagne and the Saxon Wars Pt 2 - Carolingian Viking Age V"
 layout: post
 permalink: "charlemagne-saxon-wars-part-2"
 date: 2017-02-02 05:00
@@ -11,7 +11,7 @@ tag:
 blog: true
 ---
 
-## Charlemagne and the Saxon Wars Pt 2 - Carolingian Viking Age IV
+## Charlemagne and the Saxon Wars Pt 2 - Carolingian Viking Age V
 
 In this episode we conclude our discussion about the reign of Charlemagne and his 30 year-long war against the Saxons. 
 
