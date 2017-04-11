@@ -23,10 +23,10 @@ Curious why Lee cares about the Viking Age? Want to know about Viking Age Textil
 
 And as promised in the episode - pictures and links! 
 
-![The Jelling Stone]({{site.url}}/assets/images/art_style/tunic.png "The Jelling Stone")
+![The Jelling Stone]({{site.url}}/assets/images/jelling_stone.jpg "The Jelling Stone")
 Image of Christ from the Jelling Stone in Jelling, Denmark. 
 
-![Weapon Dancer Odin]({{site.url}}/assets/images/art_style/gripping.png "Weapon Dancer Odin")
+![Weapon Dancer Odin]({{site.url}}/assets/images/weapon_dancer_odin.jpg "Weapon Dancer Odin")
 Image of Odin as a weapon dancer with horned helmet. 
 
 ### History Podcasts Lee Recommends 
