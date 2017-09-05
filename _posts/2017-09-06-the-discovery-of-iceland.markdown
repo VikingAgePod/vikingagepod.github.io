@@ -35,9 +35,9 @@ Sturluson, S. (2005). _The Prose Edda: Norse mythology_ (J. L. Byock, Trans.).
 
 _The Islands in the Northern Ocean_ in McDonald, R. A., & Somerville, A. A. (2014). _The Viking Age: A Reader._ North York, Ontario: University of Toronto Press. (Chapter 66) [Available on Amazon](https://www.amazon.com/Viking-Age-Readings-Medieval-Civilizations/dp/1442601485/ref=sr_1_2?s=books&ie=UTF8&qid=1504281624&sr=1-2&keywords=The+Viking+Age%3A+A+Reader)
 
-_ Íslendingabók_ in McDonald, R. A., & Somerville, A. A. (2014). _The Viking Age: A Reader._ North York, Ontario: University of Toronto Press. (Chapter 70.a)[Available on Amazon](https://www.amazon.com/Viking-Age-Readings-Medieval-Civilizations/dp/1442601485/ref=sr_1_2?s=books&ie=UTF8&qid=1504281624&sr=1-2&keywords=The+Viking+Age%3A+A+Reader)
+_Íslendingabók_ in McDonald, R. A., & Somerville, A. A. (2014). _The Viking Age: A Reader._ North York, Ontario: University of Toronto Press. (Chapter 70.a)[Available on Amazon](https://www.amazon.com/Viking-Age-Readings-Medieval-Civilizations/dp/1442601485/ref=sr_1_2?s=books&ie=UTF8&qid=1504281624&sr=1-2&keywords=The+Viking+Age%3A+A+Reader)
 
-_ Landnámabók _ in McDonald, R. A., & Somerville, A. A. (2014). _The Viking Age: A Reader._ North York, Ontario: University of Toronto Press. (Chapter 70.b) [Available on Amazon](https://www.amazon.com/Viking-Age-Readings-Medieval-Civilizations/dp/1442601485/ref=sr_1_2?s=books&ie=UTF8&qid=1504281624&sr=1-2&keywords=The+Viking+Age%3A+A+Reader)
+_Landnámabók_ in McDonald, R. A., & Somerville, A. A. (2014). _The Viking Age: A Reader._ North York, Ontario: University of Toronto Press. (Chapter 70.b) [Available on Amazon](https://www.amazon.com/Viking-Age-Readings-Medieval-Civilizations/dp/1442601485/ref=sr_1_2?s=books&ie=UTF8&qid=1504281624&sr=1-2&keywords=The+Viking+Age%3A+A+Reader)
 
 #### Secondary Sources 
 
@@ -47,11 +47,11 @@ Clunies Ross, M. _The Creation of Old Norse Mythology_ in Brink, S., & Price, N.
 
 Gunnell, Terry. _Hof, Halls, Goðar and Dwarves: An Examination of the Ritual Space in the Pagan Icelandic Hall_. [Available Free Online](https://notendur.hi.is/terry/articles/TerryGunnell-2001_Hof,Halls,Godar_and_Dwarves.pdf)
 
-Lönnroth, Lars. _ The Icelandic Sagas_ in Brink, S., & Price, N. S. (n.d.). _The Viking World_. [Available on Amazon](https://www.amazon.com/Viking-World-Routledge-Worlds/dp/0415692628/ref=sr_1_2?s=books&ie=UTF8&qid=1504281905&sr=1-2&keywords=The+Viking+World)
+Lönnroth, Lars. _The Icelandic Sagas_ in Brink, S., & Price, N. S. (n.d.). _The Viking World_. [Available on Amazon](https://www.amazon.com/Viking-World-Routledge-Worlds/dp/0415692628/ref=sr_1_2?s=books&ie=UTF8&qid=1504281905&sr=1-2&keywords=The+Viking+World)
 
-Sigurðsson, J. V. _ Iceland_ in Brink, S., & Price, N. S. (n.d.). _The Viking World_. [Available on Amazon](https://www.amazon.com/Viking-World-Routledge-Worlds/dp/0415692628/ref=sr_1_2?s=books&ie=UTF8&qid=1504281905&sr=1-2&keywords=The+Viking+World)
+Sigurðsson, J. V. _Iceland_ in Brink, S., & Price, N. S. (n.d.). _The Viking World_. [Available on Amazon](https://www.amazon.com/Viking-World-Routledge-Worlds/dp/0415692628/ref=sr_1_2?s=books&ie=UTF8&qid=1504281905&sr=1-2&keywords=The+Viking+World)
 
-Vésteinsson, Orri. _ Patterns of Settlement in Iceland. A Study in Pre-History_. [Available Free Online](https://www.researchgate.net/publication/258435405_Patterns_of_Settlement_in_Iceland_A_Study_in_Pre-History)
+Vésteinsson, Orri. _Patterns of Settlement in Iceland. A Study in Pre-History_. [Available Free Online](https://www.researchgate.net/publication/258435405_Patterns_of_Settlement_in_Iceland_A_Study_in_Pre-History)
 
 
 ## Like what you hear?
