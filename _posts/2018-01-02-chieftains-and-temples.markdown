@@ -17,7 +17,7 @@ blog: true
 In this episode we begin to explore Pagan practice in Iceland, focusing on the religious roles of the _goðar_. In this first episode we will be discussing: 
 
 - The role played by the _goðar_ in the conversion of Iceland. 
-- A rune stone attesting to an early Danish _goðar_. 
+- A rune stone attesting to an early Danish _goði_. 
 - A remarkable cult building at Uppkåra in South Western Sweden. 
 - The close ties between political and religious power in Viking Age Scandinavia. 
 
