@@ -39,7 +39,7 @@ _The Saga of Hákon the Good_ in [Heimskringla](http://vsnrweb-publications.org.
 
 _Blót_ and _Þing_. The function of the tenth-century _Goði_. In [A Piece of Horse Liver](https://www.amazon.com/Piece-Horse-Liver-Folklore-Icelandic/dp/9979542640/ref=sr_1_fkmr1_1?s=books&ie=UTF8&qid=1514427667&sr=1-1-fkmr1&keywords=a+piece+of+horse+lover) by Jón Hnefill Aðalsteinsson
 
-_A Piece of Horse Liver and the Ratification of Law_. In [A Piece of Horse Liver]((https://www.amazon.com/Piece-Horse-Liver-Folklore-Icelandic/dp/9979542640/ref=sr_1_fkmr1_1?s=books&ie=UTF8&qid=1514427667&sr=1-1-fkmr1&keywords=a+piece+of+horse+lover) by Jón Hnefill Aðalsteinsson
+_A Piece of Horse Liver and the Ratification of Law_. In [A Piece of Horse Liver](https://www.amazon.com/Piece-Horse-Liver-Folklore-Icelandic/dp/9979542640/ref=sr_1_fkmr1_1?s=books&ie=UTF8&qid=1514427667&sr=1-1-fkmr1&keywords=a+piece+of+horse+lover) by Jón Hnefill Aðalsteinsson
 
 [The Viking diaspora.](https://www.amazon.com/Viking-Diaspora-Medieval-World/dp/1138020796/ref=sr_1_1?s=books&ie=UTF8&qid=1505314295&sr=1-1&keywords=The+Viking+Diaspora) by Judith Jesch. 
 
