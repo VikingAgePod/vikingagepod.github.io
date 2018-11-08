@@ -2,7 +2,7 @@
 title: "Eastern Way IV - Gamla Uppsala"
 layout: post
 permalink: "gamla-uppsala"
-date: 2018-10-09 05:30
+date: 2018-11-09 05:30
 tag:
 - episode
 - vikingage
