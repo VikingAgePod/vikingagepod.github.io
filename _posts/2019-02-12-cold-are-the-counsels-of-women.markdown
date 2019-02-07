@@ -39,7 +39,7 @@ Sagas of the People of Vatnsdal (Vatnsdaela Saga) translated by Andrew Wahn in [
 
 The Saga of Hrolf Gautrekkson translated by Ben Waggoner in [Six Sagas of Adventure](https://www.amazon.com/Six-Sagas-Adventure-Ben-Waggoner/dp/1941136044).
 
- The Saga of the Sworn Brothers translated by Martin S. Regal in [Comic Sagas and Tales from Iceland](https://www.amazon.com/Comic-Sagas-Iceland-Penguin-Classics/dp/0140447741)
+ The Saga of the Sworn Brothers translated by Martin S. Regal in [Comic Sagas and Tales from Iceland](https://www.amazon.com/Comic-Sagas-Iceland-Penguin-Classics/dp/0140447741).
 
 [The Poetic Edda](https://www.amazon.com/Poetic-Edda-Oxford-Worlds-Classics/dp/0199675341/ref=sr_1_4?s=books&ie=UTF8&qid=1547049354&sr=1-4&keywords=Poetic+Edda) translated by Carolyne Larrington.  
 
