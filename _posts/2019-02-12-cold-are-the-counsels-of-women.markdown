@@ -11,7 +11,7 @@ blog: true
 
 ## Mother of Kings III - Cold are the Counsels of Women
 
-In this episode, we continue our exploration Gunnhild _konungamóðir_'s life and legend, discussing the power of her words and the speech of powerful women throughout Old Norse Literature.
+In this episode, we continue our exploration of the life and legend of Gunnhild _konungamóðir_, discussing the power of her words and the speech of powerful women throughout Old Norse Literature.
 
 Whether goading their male relatives to violence, advocating peace and accommodation, or predicting what fate held in store, women in the Sagas are frequently pictured exercising power though their words. Today, we are going to take a deep dive into these portrayals. Along the way we will meet all manner of powerful women and get a chance to marvel at their powerful words.  
 
@@ -49,7 +49,6 @@ The Saga of Hrolf Gautrekkson translated by Ben Waggoner in [Six Sagas of Advent
 
 [Grágás II](https://books.google.com/books/about/Laws_of_Early_Iceland.html?id=-KKDKPZ0xzIC) translated by Andrew Dennis, Peter Foote and Richard Perkins.
 
-
 #### Secondary Sources
 
 [Women in Old Norse Literature, Bodies, Words, and Power](https://www.amazon.com/Women-Old-Norse-Literature-Bodies/dp/0230120423) by Jóhanna Katrín Friðriksdóttir.
@@ -69,7 +68,6 @@ Gender by Jóhanna Katrín Friðriksdóttir in [The Routledge Research Companion
 Women in Old Norse Poetry and Sagas by Judy Quinn in [A Companion to Old Norse-Icelandic Literature and Culture](https://www.amazon.com/Companion-Old-Norse-Icelandic-Literature-Culture/dp/1405163674).
 
 [Gunnhildur and the Male Whores](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/46213) by Jóna Guðbjörg Torfadóttir
-
 
 ## Like what you hear?
 If you like this episode you could do a huge solid for all of us here at the Viking Age Podcast and spread the word on social media with the links below!
